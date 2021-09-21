@@ -5,7 +5,7 @@ from PIL import ImageFont
 from PIL import ImageDraw
 from IPython.display import display
 
-image=Image.open("D:\Python Projects\Project_Data\Example.jfif")
+image=Image.open("D:\Python Projects\Project_Data\Example.png")
 image=image.convert('RGB')
 images=[]
 
